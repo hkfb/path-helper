@@ -4871,3 +4871,5 @@ class PathHelper {
 if (typeof exports === "object") {
   module.exports = PathHelper;
 }
+
+export { PathHelper };
